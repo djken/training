@@ -15,6 +15,7 @@ header p{
 main {
     /* padding: 0 25px; */
     margin: 0 100px;
+    text-align: justify;
 }
 
 footer{
