@@ -1,0 +1,24 @@
+header {
+    background: black;
+    display: flex;
+    margin: 0 100px;
+}
+
+header a{
+    color: aqua;
+}
+
+header p{
+    padding: 0 12px;
+}
+
+main {
+    /* padding: 0 25px; */
+    margin: 0 100px;
+}
+
+footer{
+    background: black;
+    display: flex;
+    color: aliceblue;
+}
